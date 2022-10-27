@@ -21,7 +21,7 @@
 <h1>Здесь собраны аудио уроки из Учебника SpotLight для 2 класса</h1>
    <div class="row">
    {% for page in pages %}   
-      <div class="col-3"><a class="list-group-item ist-group-item-action" href="{{ url_for('index')}}p/{{ page }}">Страница №{{ page }}</a></div>
+      <div class="col-lg-3 col-md-4 col-sm-6"><a class="list-group-item ist-group-item-action" href="{{ url_for('index')}}p/{{ page }}">Страница №{{ page }}</a></div>
    {% endfor %}      
    </div>
 
