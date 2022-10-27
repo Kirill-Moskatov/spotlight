@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block content %}
+   <div class="row row-cols-2 row-cols-md-3 g-4">
+   {% for cahpter in tracklist %}
+      {% for track in cahpter['tracks'] %}
+      
+         <div class="col">         
+            <div class="card">
+               <div class="card-body">
+                  <p class="card-title lead" >Тема - {{ cahpter['chapter_name'] }}, упражнение №{{track['exercise']['number']}}, страница №{{track['page']}}</p>
+                  <audio
+                       controls
+                       src="{{ url_for('static', filename ='audio/'+track['file_name']) }}">      
+                  </audio>
+               </div>         
+            </div>
+         </div>
+      {% endfor %}
+   {% endfor %}        
+   </div>
+      
+
+
+
+{% endblock %}
+
+{% block script %}
+<script>
+   document.addEventListener('play', function(e){
+      var audios = document.getElementsByTagName('audio');
+      for (var i=0, len = audios.length; i<len; i++){
+         if(audios[i] != e.target){
+            audios[i].pause();
+         }
+      }
+   }, true);
+</script>
+
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+
+{% block content1 %}
+
+   <div class="container-fluid">
+      <select class="form-select">
+      <option selected>Выбери номер страницы</option>
+      {% for page in pages %}   
+      <option value="{{ page }}">Страница №{{ page }}</option>
+   {% endfor %}
+   </select>
+   </div>
+   <div class="container-fluid">
+      <a href="{{ url_for('index')}}p/" class="list-group-item list-group-item-action active" aria-current="true">Открыть</a>
+   </div>
+   
+{% endblock %}
+
+{% block content %}
+<h1>Здесь собраны аудио уроки из Учебника SpotLight для 2 класса</h1>
+   <div class="row">
+   {% for page in pages %}   
+      <div class="col-3"><a class="list-group-item ist-group-item-action" href="{{ url_for('index')}}p/{{ page }}">Страница №{{ page }}</a></div>
+   {% endfor %}      
+   </div>
+
+{% endblock %}

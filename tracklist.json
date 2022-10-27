@@ -1,0 +1,359 @@
+{
+  "tracklist": [
+    {
+      "chapter_name": "Credits",
+      "tracks": [
+        {
+          "file_name": "01 (01) Credits.mp3",
+          "page": 1,
+          "exercise": {
+            "number": 1,
+            "name": "Credits"
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Let’s Go!",
+      "tracks": [
+        {
+          "file_name": "01 - Ex. 1,p. 4.mp3",
+          "page": 4,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "My Letters!",
+      "tracks": [
+        {
+          "file_name": "01 - Ex. 1,p. 6.mp3",
+          "page": 6,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "02 - Ex. 2, p. 6.mp3",
+          "page": 6,
+          "exercise": {
+            "number": 2,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "03 - Ex. 1, p. 8.mp3",
+          "page": 8,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "04 - Ex. 2, p. 8.mp3",
+          "page": 8,
+          "exercise": {
+            "number": 2,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "05 - Ex. 1, p. 10.mp3",
+          "page": 10,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "06 - Ex. 2, p. 10.mp3",
+          "page": 10,
+          "exercise": {
+            "number": 2,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "07 - Chant (a-z).mp3",
+          "page": 11,
+          "exercise": {
+            "number": 2,
+            "name": "Chant (a-z)"
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Letter Blends!",
+      "tracks": [
+        {
+          "file_name": "01 - Ex. 1, p. 12.mp3",
+          "page": 12,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "02 - Ex. 3, p. 13.mp3",
+          "page": 13,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "03 - Ex. 1, p. 14.mp3",
+          "page": 14,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "04 - Ex. 3, p. 15.mp3",
+          "page": 15,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "05 - Ex. 1, p. 16.mp3",
+          "page": 16,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "06 - Ex. 3, p. 17.mp3",
+          "page": 17,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Starter Module",
+      "tracks": [
+        {
+          "file_name": "01 - Ex. 1,p. 18.mp3",
+          "page": 18,
+          "exercise": {
+            "number": 1,
+            "name": "Hello!"
+          }
+        },
+        {
+          "file_name": "02 - Ex. 3,p. 19.mp3",
+          "page": 19,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "03 - Ex. 1,p. 20.mp3",
+          "page": 20,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "04 - Ex. 2,p. 21.mp3",
+          "page": 21,
+          "exercise": {
+            "number": 2,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "05 - Ex. 1,p. 22.mp3",
+          "page": 22,
+          "exercise": {
+            "number": 1,
+            "name": "My Family!"
+          }
+        },
+        {
+          "file_name": "06 - Ex. 3,p. 23.mp3",
+          "page": 23,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "07 - Ex. 1,p. 24.mp3",
+          "page": 24,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "08 - Ex. 3,p. 25.mp3",
+          "page": 25,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Module 1",
+      "tracks": [
+        {
+          "file_name": "01 - Ex. 1,p. 26.mp3",
+          "page": 26,
+          "exercise": {
+            "number": 1,
+            "name": "Unit 1"
+          }
+        },
+        {
+          "file_name": "02 - Ex. 3,p. 27.mp3",
+          "page": 27,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "03 - Ex. 3,p. 29.mp3",
+          "page": 29,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "04 - Ex. 1,p. 30.mp3",
+          "page": 30,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "05 - Ex. 3,p. 31.mp3",
+          "page": 31,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "06 - Ex. 1,p. 32.mp3",
+          "page": 32,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "07 - Ex. 3,p. 33.mp3",
+          "page": 33,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "08 - Ex. 1,p. 34.mp3",
+          "page": 34,
+          "exercise": {
+            "number": 1,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "09 - Ex. 2,p. 34.mp3",
+          "page": 34,
+          "exercise": {
+            "number": 2,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "10 - Ex. 3,p. 35.mp3",
+          "page": 35,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "11 - Ex. 2,p. 36.mp3",
+          "page": 36,
+          "exercise": {
+            "number": 2,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "12 - Ex. 5,p. 37.mp3",
+          "page": 37,
+          "exercise": {
+            "number": 5,
+            "name": "Hello!"
+          }
+        },
+        {
+          "file_name": "13 - Story pp. 40-41.mp3",
+          "page": 40,
+          "exercise": {
+            "number": 1,
+            "name": "Story"
+          }
+        }
+      ]
+    },
+    {
+      "chapter_name": "Module 2",
+      "tracks": [
+        {
+          "file_name": "01 - Ex. 1,p. 44.mp3",
+          "page": 44,
+          "exercise": {
+            "number": 1,
+            "name": "Unit 4"
+          }
+        },
+        {
+          "file_name": "02 - Ex. 3,p. 45.mp3",
+          "page": 45,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "03 - Ex. 3,p. 47.mp3",
+          "page": 47,
+          "exercise": {
+            "number": 3,
+            "name": ""
+          }
+        },
+        {
+          "file_name": "04 - Ex. 1,p. 48.mp3",
+          "page": 48,
+          "exercise": {
+            "number": 1,
+            "name": "Unit 5"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+	
+
+	<ul>
+	{% for chapter in tracklist %}
+		<li>{{ chapter['chapter_name'] }}</li>
+	{% endfor %}
+	</ul>
+
+	 <h1>{% block title %} SpotLight Audio {% endblock %}</h1>
+   <figure>
+       <figcaption>Test file</figcaption>
+       <audio
+           controls
+           src="{{ url_for('static', filename ='/audio/01 (01) Credits.mp3') }}">
+               
+       </audio>
+   </figure>
+
+   <div>
+      <a role="button" class="btn btn-primary" href="{{ url_for('test')}}">Test</a>
+   </div>
+{% endblock %}
